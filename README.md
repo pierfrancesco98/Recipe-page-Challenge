@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Recipe-page-Challenge}</h1>
+<h1 align="center">Recipe-page-Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://pisaniwebdesign.com/pagina/Cheescake">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://https://devchallenges.io/solutions/8PwscZGPAzISdFtYJivu">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{https://devchallenges.io/portfolio/pierfrancesco98}">
+    <a href="https://https://devchallenges.io/portfolio/pierfrancesco98">
       Challenge
     </a>
   </h3>
@@ -60,7 +60,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/pierfrancesco98/Recipe-page-Challenge
 
 # Install dependencies
 $ npm install
@@ -69,16 +69,10 @@ $ npm install
 $ npm start
 ```
 
-## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [pisaniwebdesign.com](https://{pisaniwebdesign.com})
-- GitHub [@pierfrancesco98](https://{github.com/pierfrancesco98})
+- Website [pisaniwebdesign.com](https://pisaniwebdesign.com)
+- GitHub [@pierfrancesco98](https://github.com/pierfrancesco98)
 
